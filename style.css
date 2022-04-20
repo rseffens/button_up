@@ -1,0 +1,28 @@
+#search {
+    border: solid darkturquoise;
+    background-color: rgb(250, 250, 250);
+    color: darkturquoise;
+    border-radius: 30px;
+    width: 115px;
+    height: 30px;
+    margin: 5px;
+}
+#x {
+    border-radius: 50%;
+    color: white;
+    background-color: darkturquoise;
+    margin: 10px;
+    height: 35px;
+    width: 35px;
+    font-size: 24pt;
+}
+#create {
+    border: 1pt solid black;
+    background-color: dodgerblue;
+    color: white;
+    height: 30px;
+    width: 130px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px black;
+   
+}
